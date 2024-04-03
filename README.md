@@ -1,2 +1,0 @@
-# supabase-help
-Supabase help
